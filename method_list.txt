@@ -1,0 +1,11 @@
+https://github.com/HuiZeng/Image-Adaptive-3DLUT
+https://github.com/mahmoudnafifi/WB_sRGB
+https://github.com/mahmoudnafifi/Deep_White_Balance
+https://github.com/hejingwenhejingwen/CSRNet
+https://github.com/AFLProjects/White-Balance-Automation
+https://github.com/OcraM17/ColorEnhancement
+https://github.com/potatomaster96/resaliency
+
+# list of methods
+https://github.com/open-mmlab/mmediting
+https://github.com/1900zyh/Awesome-Image-Inpainting
