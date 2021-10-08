@@ -2,4 +2,6 @@ images/*
 papers/*
 ace/*
 methods/*
+*.swp
+*__pycache__/*
 results/*
