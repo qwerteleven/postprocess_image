@@ -64,4 +64,4 @@ https://github.com/1900zyh/Awesome-Image-Inpainting
 
 <img src="https://github.com/qwerteleven/postprocess_image/blob/main/assets/image-adaptive-3dlutXYZ_fail/ (1).jpeg" width="270"> | <img src="https://github.com/qwerteleven/postprocess_image/blob/main/assets/WB_sRGB-clipping/ (1).jpeg" width="270"> | <img src="https://github.com/qwerteleven/postprocess_image/blob/main/assets/WB_sRGB-scaling/ (1).jpeg" width="270"> 
 
-|----------------------------|----------------|---------------|
+||||
