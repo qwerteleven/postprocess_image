@@ -1,7 +1,12 @@
 images/*
 papers/*
 ace/*
+selection/*
 methods/*
 *.swp
 *__pycache__/*
 results/*
+postprocess_image/*
+simplest_color_balance/*
+result_enhancement_eval/*
+test_image_aesthetics/*
