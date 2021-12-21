@@ -41,11 +41,11 @@ https://github.com/1900zyh/Awesome-Image-Inpainting
 
 |GT|auto_brightness|StableLLVE|
 |--|---------------|----------|
-<img src="https://github.com/qwerteleven/postprocess_image/blob/main/assets/GT/ (1).jpeg" width="270">  <img src="https://github.com/qwerteleven/postprocess_image/blob/main/assets/auto_brightness/ (1).jpeg" width="270">  <img src="https://github.com/qwerteleven/postprocess_image/blob/main/assets/StableLLVE/ (1).jpeg" width="270"> 
+<img src="https://github.com/qwerteleven/postprocess_image/blob/main/assets/GT/ (1).jpeg" width="270"> <img src="https://github.com/qwerteleven/postprocess_image/blob/main/assets/auto_brightness/ (1).jpeg" width="270"> <img src="https://github.com/qwerteleven/postprocess_image/blob/main/assets/StableLLVE/ (1).jpeg" width="270"> 
 
 |deep-white-balance_C|deep-white-balance_D|deep-white-balance_AWB|
 |--------------------|--------------------|----------------------|
-<img src="https://github.com/qwerteleven/postprocess_image/blob/main/assets/deep-white-balance_C/ (1).jpeg" width="270">  <img src="https://github.com/qwerteleven/postprocess_image/blob/main/assets/deep-white-balance_D/ (1).jpeg" width="270">  <img src="https://github.com/qwerteleven/postprocess_image/blob/main/assets/deep-white-balance_AWB/ (1).jpeg" width="270"> 
+<img src="https://github.com/qwerteleven/postprocess_image/blob/main/assets/deep-white-balance_C/ (1).jpeg" width="270"> <img src="https://github.com/qwerteleven/postprocess_image/blob/main/assets/deep-white-balance_D/ (1).jpeg" width="270"> <img src="https://github.com/qwerteleven/postprocess_image/blob/main/assets/deep-white-balance_AWB/ (1).jpeg" width="270"> 
         
 |deep-white-balance_F|deep-white-balance_S|deep-white-balance_T|
 |--------------------|--------------------|--------------------|
